@@ -1,3 +1,15 @@
+
+
+notation for spaced repetition prompts (like notecards or Anki)
+
+
+>Do not start from memorizing loosely related facts! First read a chapter in your book that puts them together (e.g. the principles of the internal combustion engine). Only then proceed with learning using individual questions and answers (e.g. What moves the pistons in the internal combustion engine?), etc.
+
+  > https://www.supermemo.com/en/archives1990-2015/articles/20rules
+
+
+# Based on:
+
 ![TOML Logo](logos/toml-200.png)
 
 TOML
@@ -34,6 +46,7 @@ Table of contents
 - [Comment](#user-content-comment)
 - [Key/Value Pair](#user-content-keyvalue-pair)
 - [Keys](#user-content-keys)
+
 - [String](#user-content-string)
 - [Integer](#user-content-integer)
 - [Float](#user-content-float)
