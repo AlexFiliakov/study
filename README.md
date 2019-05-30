@@ -1,6 +1,7 @@
+# STUDY: a notation for spaced repetition prompts
+Plan is to leverage TOML to extend what Anki offers for Cloze deletion syntax, especially the Overlapping Cloze plugin.
+Purpose: want syntax to mark up a text file for processing into memorization cards.
 
-
-notation for spaced repetition prompts (like notecards or Anki)
 
 
 >Do not start from memorizing loosely related facts! First read a chapter in your book that puts them together (e.g. the principles of the internal combustion engine). Only then proceed with learning using individual questions and answers (e.g. What moves the pistons in the internal combustion engine?), etc.
